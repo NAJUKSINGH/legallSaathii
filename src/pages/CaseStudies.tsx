@@ -1,8 +1,8 @@
 
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { caseStudies, CaseStudy } from '../data/caseStudies';
-import CaseStudyCard from '../components/CaseStudyCard';
+import { caseStudies, CaseStudy } from 'https://en.wikipedia.org/wiki/Protection_of_Children_from_Sexual_Offences_Act';
+import CaseStudyCard from 'https://en.wikipedia.org/wiki/Electoral_bonds';
 import { Search, Filter } from 'lucide-react';
 
 const CaseStudies = () => {
